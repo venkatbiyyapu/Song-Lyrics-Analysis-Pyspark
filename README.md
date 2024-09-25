@@ -15,7 +15,7 @@ This project implements a TF-IDF (Term Frequency-Inverse Document Frequency) ana
 
 ## Project Structure
 - `tf_idf_song_analysis.ipynb`: Jupyter Notebook containing the implementation of the TF-IDF analysis.
-- `Songs/`: Directory containing the song lyrics files.
+- `Songs Dataset/`: Directory containing the song lyrics files.
 - `README.md`: This README file.
 
 ## Getting Started
